@@ -1,2 +1,3 @@
 # LiquidCrystal_I2C
-LiquidCrystal Arduino library for the DFRobot I2C LCD displays
+Extended I2C LiquidCrystal library for the Arduino Framework with full compatibility.
+Compatible to ESP8266 and Atmel processors!
